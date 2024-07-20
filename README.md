@@ -1,6 +1,6 @@
-# KisanSeva: Empowering Farmers with Technology and Machine Learning
+# KrishiCare: Empowering Farmers with Technology and Machine Learning
 
-KisanSeva is a revolutionary Flutter application designed specifically for farmers, integrating cutting-edge Machine Learning technologies with a plethora of features to enhance agricultural productivity and efficiency. With a focus on user-friendly design and comprehensive functionality, KisanSeva aims to be the go-to tool for farmers seeking to optimize their farming practices and maximize yields.
+KrishiCare is a revolutionary Flutter application designed specifically for farmers, integrating cutting-edge Machine Learning technologies with a plethora of features to enhance agricultural productivity and efficiency. With a focus on user-friendly design and comprehensive functionality, KrishiCare aims to be the go-to tool for farmers seeking to optimize their farming practices and maximize yields.
 
 ## Demo Video
 [![Watch the video](https://img.youtube.com/vi/tnnmiYsJUhU/maxresdefault.jpg)](https://youtu.be/lQnrZapjc_M)
@@ -9,34 +9,34 @@ KisanSeva is a revolutionary Flutter application designed specifically for farme
 ## Features
 
 ### 1. Secure Authentication
-KisanSeva ensures the security of farmers' accounts through a robust OTP-based authentication system, safeguarding their data and privacy.
+KrishiCare ensures the security of farmers' accounts through a robust OTP-based authentication system, safeguarding their data and privacy.
 
 ### 2. Multilingual Support
-To cater to a diverse user base, KisanSeva offers multilingual support, enabling farmers to navigate the app with ease in their preferred language.
+To cater to a diverse user base, KrishiCare offers multilingual support, enabling farmers to navigate the app with ease in their preferred language.
 
 ### 3. Rent Tools/Farming Essentials
 Farmers can easily access and rent farming tools and essentials directly through the app, facilitating cost-effective and convenient farming operations.
 
 ### 4. Plant Disease Detection
-Utilizing TensorFlow and Google Teachable Machine, KisanSeva empowers farmers to detect plant diseases accurately, enabling timely interventions to protect crops and prevent yield loss.
+Utilizing TensorFlow and Google Teachable Machine, KrishiCare empowers farmers to detect plant diseases accurately, enabling timely interventions to protect crops and prevent yield loss.
 
 ### 5. Crop Prediction
-Through the integration of Pandas, NumPy, and scikit-learn, KisanSeva provides predictive insights into crop yields, aiding farmers in making informed decisions regarding crop selection and cultivation strategies.
+Through the integration of Pandas, NumPy, and scikit-learn, KrishiCare provides predictive insights into crop yields, aiding farmers in making informed decisions regarding crop selection and cultivation strategies.
 
 ### 6. Smart Connect
-KisanSeva includes a smart connect feature that prevents unauthorized access and exploitation by third-party entities, ensuring the integrity of farmers' interactions within the app.
+KrishiCare includes a smart connect feature that prevents unauthorized access and exploitation by third-party entities, ensuring the integrity of farmers' interactions within the app.
 
 ### 7. Weather Forecast
 Farmers can stay informed about weather conditions relevant to their region, enabling them to plan their farming activities effectively and mitigate weather-related risks.
 
 ### 8. Feed
-KisanSeva offers a community feed where farmers can share insights, tips, and experiences, fostering collaboration and knowledge-sharing within the farming community.
+KrishiCare offers a community feed where farmers can share insights, tips, and experiences, fostering collaboration and knowledge-sharing within the farming community.
 
 ### 9. Toll-Free Number/Expert Assistance
 For personalized support and guidance, farmers can access toll-free numbers and expert assistance directly through the app, providing them with invaluable resources to address their queries and challenges.
 
 ## Challenges Faced
-While developing KisanSeva, our team encountered various challenges, including the implementation of TensorFlow Lite for efficient Machine Learning models, as well as optimizing predictive algorithms using Pandas, NumPy, and scikit-learn to enhance the accuracy of crop prediction.
+While developing KrishiCare, our team encountered various challenges, including the implementation of TensorFlow Lite for efficient Machine Learning models, as well as optimizing predictive algorithms using Pandas, NumPy, and scikit-learn to enhance the accuracy of crop prediction.
 
 ## Technologies Used
 - Flutter
@@ -49,24 +49,24 @@ While developing KisanSeva, our team encountered various challenges, including t
 - NumPy
 - Real-time Database
 
-KisanSeva represents a significant step forward in leveraging technology to empower farmers, providing them with the tools and insights needed to thrive in an ever-evolving agricultural landscape. With its comprehensive features and intuitive interface, KisanSeva stands as a testament to our commitment to revolutionize the farming industry and improve the livelihoods of farmers worldwide.
+KrishiCare represents a significant step forward in leveraging technology to empower farmers, providing them with the tools and insights needed to thrive in an ever-evolving agricultural landscape. With its comprehensive features and intuitive interface, KrishiCare stands as a testament to our commitment to revolutionize the farming industry and improve the livelihoods of farmers worldwide.
 
 ### Screenshots
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/s.jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KrishiCare-Final/blob/main/s.jpg" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/IMG_20210421_083435.jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KrishiCare-Final/blob/main/IMG_20210421_083435.jpg" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/s.png" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KrishiCare-Final/blob/main/s.png" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/s%20(1).jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KrishiCare-Final/blob/main/s%20(1).jpg" width="250" title="hover text">
 
-<img src="https://github.com/Andriyas05/KisanSeva-Final/blob/main/IMG_20210421_084044.jpg" width="250" title="hover text">
+<img src="https://github.com/Andriyas05/KrishiCare-Final/blob/main/IMG_20210421_084044.jpg" width="250" title="hover text">
 
 
 # How to Run the Flutter Application
 
-Follow these steps to set up and run the KisanSeva application on your local machine:
+Follow these steps to set up and run the KrishiCare application on your local machine:
 
 ### Prerequisites
 
@@ -78,8 +78,8 @@ Follow these steps to set up and run the KisanSeva application on your local mac
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/Andriyas05/KisanSeva-Final.git
-   cd kisanseva
+   git clone https://github.com/Andriyas05/KrishiCare-Final.git
+   cd KrishiCare
    ```
 
 2. **Install Dependencies**
